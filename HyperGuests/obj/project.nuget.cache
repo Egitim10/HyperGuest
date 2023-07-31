@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "4efImkBjE81BqsQNOas8RI7woAmgcEpwkf6vh2++uSJa/pLgZXuf/V5ZYSYktTFt4/eci2QvGp06HOVzNnK7FQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cemal\\OneDrive\\Desktop\\KIOSKLAR\\11-HyperGuest\\HyperGuests\\HyperGuests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cemal\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\cemal\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\cemal\\.nuget\\packages\\microsoft.extensions.http\\7.0.0\\microsoft.extensions.http.7.0.0.nupkg.sha512",
+    "C:\\Users\\cemal\\.nuget\\packages\\microsoft.extensions.http.polly\\7.0.9\\microsoft.extensions.http.polly.7.0.9.nupkg.sha512",
+    "C:\\Users\\cemal\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\cemal\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\cemal\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\cemal\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\cemal\\.nuget\\packages\\polly\\7.2.4\\polly.7.2.4.nupkg.sha512",
+    "C:\\Users\\cemal\\.nuget\\packages\\polly.extensions.http\\3.0.0\\polly.extensions.http.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
